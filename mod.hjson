@@ -1,0 +1,6 @@
+name: "testmod"
+author: "japanese"
+displayName: "testmod"
+description: "testmod."
+version: "1.0"
+minGameVersion: "145"
