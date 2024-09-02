@@ -1,1 +1,12 @@
-name:a
+name:bigノード
+type:PowerNode
+size:1
+
+laserRange:100
+maxNodes:100
+
+requirements: [
+	lead/10
+]
+category: power
+alwaysunlocked:true
