@@ -2,8 +2,8 @@ name:bigノード
 type:PowerNode
 size:1
 
-laserRange:100
-maxNodes:100
+laserRange:1000
+maxNodes:1000
 
 requirements: [
 	lead/10
