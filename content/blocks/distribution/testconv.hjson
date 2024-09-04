@@ -1,2 +1,14 @@
 type: Conveyor
-size:1
+name: SeedDuctConv
+requirements: [
+  lead/1
+]
+#bridgeReplacement: 0b02-01-tube-bridge
+category: distribution
+speed: 7.5
+research: {
+    parent: lead
+    requirements: [
+        lead/50
+    ]
+}
