@@ -1,0 +1,18 @@
+type:BridgeConveyor
+name:BridgeConveyor
+range:1000
+solid:3
+transportTime:1
+itemCapacity:40
+requirements:[
+copper/10000
+lead/10000
+]
+research: {
+parent:bridge-conveyor
+requirements:[
+copper/20000
+lead/20000
+]
+}
+category:distribution
