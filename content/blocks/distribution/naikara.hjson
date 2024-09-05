@@ -1,4 +1,4 @@
-type:BridgeConveyor
+type:ItemBridge
 name:BridgeConveyor
 range:1000
 solid:3
