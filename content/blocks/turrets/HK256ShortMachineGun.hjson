@@ -15,7 +15,7 @@ inaccuracy: 25
 shootSound: fire
 ammoTypes: {
   tarretAmmo: {
-    type:BasicBlletType
+    type:BasicBulletType
 	  damage:30
 	  speed:10
 	  lifetime:20
