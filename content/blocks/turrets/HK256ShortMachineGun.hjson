@@ -14,7 +14,7 @@ shoot: {
 inaccuracy: 25
 shootSound: fire
 ammoTypes: {
-  tarretAmmo: {
+  7X5blt: {
     type:BulletType
 	  damage:30
 	  speed:10
