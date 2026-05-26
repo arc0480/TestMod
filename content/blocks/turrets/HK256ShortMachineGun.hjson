@@ -28,9 +28,9 @@ category: turret
 research: {
     parent: VegetableCanon
     requirements: [
-        Seed/30
+        tarretAmmo/30
     ]
 }
 requirements: [
-  Seed/125
+  tarretAmmo/125
 ]
