@@ -22,7 +22,7 @@ hasItem : true
 itemCapacity : 30
 
 ammoTypes: {
-  //tarretAmmo
+  #tarretAmmo
 7.62×54mm: {
     type:BasicBlletType
 	  damage:10
