@@ -23,7 +23,7 @@ itemCapacity : 30
 
 ammoTypes: {
   #tarretAmmo
-7.62×54mm: {
+tarretAmmo: {
     type:BasicBlletType
 	  damage:10
 	  speed:30
