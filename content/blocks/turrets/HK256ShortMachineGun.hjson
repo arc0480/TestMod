@@ -26,11 +26,11 @@ ammoTypes: {
 }
 category: turret
 research: {
-    parent: VegetableCanon
+    parent: 7X5blt
     requirements: [
-        tarretAmmo/30
+        7X5blt/30
     ]
 }
 requirements: [
-  tarretAmmo/125
+  7X5blt/125
 ]
