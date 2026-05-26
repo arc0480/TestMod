@@ -1,3 +1,4 @@
+type: material
 name: 7.62×54mm
 description: '''
   これは7.62×54mm弾です。機銃によく使われます。
